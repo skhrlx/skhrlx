@@ -4,5 +4,4 @@
 - 💬 Ask me about any question to gyn ou gymnastic 
 - 📫 How to reach me: Create a issue on a project
 - 😄 Pronouns: he
-- ⚡ Fun fact: . 
 -->
