@@ -1,7 +1,3 @@
 -->
-- 🔭 I’m currently working on hardware hacking
-- 🌱 I’m currently learning cpp and py
-- 💬 Ask me about any question to gyn ou gymnastic 
-- 📫 How to reach me: Create a issue on a project
-- 😄 Pronouns: he
+cout << "Just a guy making cheats for games for hobbie and love" << endl;
 -->
