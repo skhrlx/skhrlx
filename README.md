@@ -1,6 +1,6 @@
 -->
 
-cout << "all here is for hobbie and love" << endl;
+std::cout << "all here is for hobbie and love" << std::endl;
 
 -->
 
