@@ -1,3 +1,5 @@
+Follow me, i don't bite (just if you take my protein)
+
 ```
 class Hello:
     def Hello_Visitant():
@@ -6,9 +8,7 @@ class Hello:
         about_me = "I'm a chess player, enthusiast of programming, and I love gymnastics and weight some heavy circles. 💻♟️🤸‍♂️"
 
         print("📢 Be free to interact with my projects. 🤝")
-```
 
-```
 class SomeThings:
 
     def __init__(self):
