@@ -32,6 +32,4 @@ if __name__ == "__main__":
     life.main()
 ```
 
-Can you give me a incentive in gym? 💉
-
-🇧🇷 | Minha chave PIX: ```b838a090-828d-4a1f-b6ec-f32bdd64adbd```
+Discord for contact: skhrlx
